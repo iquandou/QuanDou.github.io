@@ -1,6 +1,6 @@
 # Bio of Quan Dou (权豆)                               
 <p align="center">
- <img src="huyan.jpg" width="50%" height="50%" align='center'/>
+ <img src="quandou.jpg" width="50%" height="50%" align='center'/>
 </p>
 
   从2023年1月到现在，我就职于西安电子科技大学人工智能学院，任副教授。主要从事图像配准与变化检测相关研究工作。当前我的合作导师是[**焦李成**](http://www.liuyebin.com/)教授。我与清华大学**呼延宁**（博士后）保持良好合作关系，并共同开展相关研究工作。2019年11月到2020年11月曾在法国格勒诺布尔法国国家信息与自动化研究所访问交流，与[**jocelyn chanussot**](https://jocelyn-chanussot.net/)愉快合作。2011年到2022年在西安电子科技大学分别取得学士和博士学位。攻读博士期间主要跟随西安电子科技大学人工智能学院[**王爽**](https://web.xidian.edu.cn/shwang/)教授, 从事SAR图像配准相关研究工作。
